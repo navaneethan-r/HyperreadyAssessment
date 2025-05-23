@@ -1,0 +1,13 @@
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+h1 {
+  color: #333;
+}
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #007bff;
+}

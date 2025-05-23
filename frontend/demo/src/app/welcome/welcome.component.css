@@ -1,0 +1,9 @@
+.welcome-container {
+  padding: 20px;
+  background-color: #e0ffe0;
+  border: 1px solid #00cc00;
+  border-radius: 8px;
+  margin: 20px auto;
+  max-width: 300px;
+  text-align: center;
+}
